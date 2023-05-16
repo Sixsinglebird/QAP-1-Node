@@ -1,0 +1,6 @@
+[submodule "Assistant"]
+	path = Assistant
+	url = https://github.com/Sixsinglebird/Assistant
+[submodule "node-practice"]
+	path = node-practice
+	url = https://github.com/Sixsinglebird/node-practice
